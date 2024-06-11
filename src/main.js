@@ -2,8 +2,7 @@ import $ from 'jquery';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/styles.css'
-import { Journal } from './journal.js';
-import { Entry } from './journal.js';
+import { Journal, Entry } from './journal.js';
 
 let journal = new Journal();
 

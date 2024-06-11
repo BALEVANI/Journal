@@ -1,4 +1,7 @@
->## Journal
+##
+BALEVANI
+
+## Journal
 
 >## Technologies used
 
@@ -14,7 +17,7 @@
 
 >## Description
 
-* This application is an addess book which is used to store contacts and their details like their names , telephonenumber , nationality*
+* This application is called Journal which can be used to create entries counting words, vowels, consonant and getting teaser. *
 
 >## Setup/Installation requirements
 
@@ -24,9 +27,9 @@
 
 >## Known Bugs
 
-* I had challenges when i was creating the business logic for the owner object.
-* I had challenges when i was creating the business logic for storing the contacts.
-* I had challenges when i was user interface for displaying the contacts and owner details
+* I had challenges for creating a delete button.
+* I had challenges for designing the UI interface.
+* I had challenges for counting consonant.
 
 
 >## License
